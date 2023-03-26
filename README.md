@@ -2,6 +2,10 @@
 
 ####  I'm a computer science student focusing on the back-end development. More on what I do below.
 
+#### Check my spring boot app here: https://plantpro.herokuapp.com/  
+###### example user credentials: l: john@example.com p: dog.8  
+###### example admin credentials: l: superadmin@example.com p: hard 
+
 ##### In my projects i focus mainly on:
  - ![enter image description
    here](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
