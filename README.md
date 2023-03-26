@@ -1,3 +1,4 @@
+
 ## Hi! Few words about me below :)
 
 ####  I'm a computer science student focusing on the back-end development. More on what I do below.
@@ -23,7 +24,10 @@
  - ![enter image description
    here](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
  - ![enter image description
-   here](https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white)
+   here](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)
+
+   
+  - ![enter image description here](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 
   -  **SQL**
 
