@@ -26,9 +26,6 @@
  - ![enter image description
    here](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)
 
-   
-  - ![enter image description here](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-
   -  **SQL**
 
  ##### Things I would like to learn soon:
