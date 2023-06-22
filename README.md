@@ -3,7 +3,12 @@
 
 ####  I'm a computer science student focusing on the back-end development. More on what I do below.
 
-#### Check my spring boot app here: https://plantpro.herokuapp.com/  
+#### Check my recent spring boot group project here: https://gradebook-polsl-09b1b13c86f3.herokuapp.com/choose-account
+###### example student credentials: l: jakub p: opielka  
+###### example teacher credentials: l: dominik p: szczepanik 
+###### example headmaster credentials: l: michal p: moryc
+
+#### Check my first spring boot single project here: https://plantpro.herokuapp.com/  
 ###### example user credentials: l: john@example.com p: dog.8  
 ###### example admin credentials: l: superadmin@example.com p: hard 
 
