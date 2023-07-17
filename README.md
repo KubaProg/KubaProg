@@ -30,6 +30,9 @@
    here](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
  - ![enter image description
    here](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)
+ - ![enter image description
+   here](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
+ - Unit testing
 
   -  **SQL**
 
@@ -38,9 +41,6 @@
 
  - ![enter image description
    here](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
- - ![enter image description
-   here](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
- - Unit testing
 
 
 
