@@ -24,12 +24,14 @@
  - Unit testing
 
   -  **SQL**
-
- ##### Things I would like to learn soon:
- 
-
+  -     
  - ![enter image description
    here](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
+
+ ##### Things I would like to learn soon:
+ 
+- AWS
+- KUBERNETES
 
 
