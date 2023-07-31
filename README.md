@@ -24,7 +24,7 @@
  - Unit testing
 
   -  **SQL**
-  -     
+      
  - ![enter image description
    here](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
