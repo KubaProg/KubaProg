@@ -21,7 +21,7 @@
    here](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)
  - ![enter image description
    here](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
- - Unit testing
+ - Unit and integration testing
 
   -  **SQL**
       
