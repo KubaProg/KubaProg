@@ -5,7 +5,8 @@
  - ![enter image description
    here](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
  - **JAVA**
- - 
+ - ![Static Badge](https://img.shields.io/badge/JAVA)
+
 ##### Other technologies I used additionally :
 
  - ![enter image description here](https://img.shields.io/badge/Liquibase-2962FF.svg?style=for-the-badge&logo=Liquibase&logoColor=white)
