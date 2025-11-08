@@ -1,37 +1,15 @@
-
-## Hi! Few words about me below :)
-
-##### In my projects i focus mainly on:
- - ![enter image description
-   here](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
- - **JAVA**
-
-##### Other technologies I used additionally :
-
- - ![enter image description here](https://img.shields.io/badge/Liquibase-2962FF.svg?style=for-the-badge&logo=Liquibase&logoColor=white)
- 
- - ![enter image description here](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
- - ![enter image description here](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
- 
- - ![enter image description
-   here](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%20%20&logoColor=white)
- - ![enter image description
-   here](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
- - ![enter image description
-   here](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)
- - ![enter image description
-   here](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
- - Unit and integration testing
-
-  -  **SQL**
-      
- - ![enter image description
-   here](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+# 💫 About Me:
+For several years, I have been passionate about building digital products and solving real-world problems through technology. Currently, I’m focusing on AI-assisted development, DevOps (mainly AWS), and strengthening my core full-stack skills with Angular and Spring Boot.
 
 
- ##### Things I would like to learn soon:
- 
-- AWS
-- KUBERNETES
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jakub-opie%C5%82ka-939396268) 
 
+# 💻 Tech Stack:
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KubaProg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KubaProg&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KubaProg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
